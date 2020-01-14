@@ -1,0 +1,15 @@
+{
+  "name": "nbpro",
+  "version": "1.0.0",
+  "description": "New Business Processor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "O.Tatesawa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jquery": "^3.3.1"
+  }
+}
